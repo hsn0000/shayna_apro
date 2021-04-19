@@ -20,4 +20,5 @@
 export default {
   name: "Success",
 };
+
 </script>
